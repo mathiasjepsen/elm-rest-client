@@ -1,0 +1,5 @@
+Model/Counter.class
+REST/GenericResource.class
+REST/ApplicationConfig.class
+REST/CorsResponseFilter.class
+REST/CorsRequestFilter.class
